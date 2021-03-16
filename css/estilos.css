@@ -1,0 +1,15 @@
+button, #boton{
+  background:#C0C3F8;
+  color:#6D71C4;
+  font-size:14pt;
+  font-weight:bold;
+  width:200px;
+  height:30px;
+  border-radius:10px;
+}
+
+button:hover, #boton:hover{
+  background:#2874A6;
+  color:white;
+}
+
